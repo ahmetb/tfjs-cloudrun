@@ -1,0 +1,14 @@
+{
+  "name": "object-detection",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "14"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^1.4.0",
+    "busboy": "^0.3.1"
+  }
+}
